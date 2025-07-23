@@ -5,8 +5,7 @@
 [![Download Bitwarden](https://img.shields.io/badge/Download-Bitwarden-blueviolet)](#)
 
 ---
-```terminal
-eto normalnaya tema```
+
 ## ⚙️ Core Features
 
 - 🔐 **End-to-End Encryption** — Protects your data with AES-256
